@@ -1,1 +1,1 @@
-# demos_ml_neural_nets
+# Demo for Introduction to Neural Nets
