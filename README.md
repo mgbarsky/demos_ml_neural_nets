@@ -1,1 +1,1 @@
-# Demo for Introduction to Neural Nets
+# Demo for the lecture ''Introduction to Artificial Neural Nets''
